@@ -1,0 +1,32 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "voterId&Sequence_1",
+        "voterLastName&Sequence_1",
+        "coinFlipResult&Sequence_1",
+        "firstVote&Sequence_1",
+        "secondVote&Sequence_1",
+        "firstVoteFileExists&Sequence_1",
+        "nameMatches&Sequence_22",
+        "firstVoteTable&Sequence_15",
+        "firstVoteTable&Sequence_19",
+        "secondVoteFilesExists&Sequence_19",
+        "secondVoteTable&Sequence_19"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
